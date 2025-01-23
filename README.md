@@ -1,5 +1,5 @@
-# Hello, World! I'm Zarnik.👋
-# Welcome to my GitHub profile! 
+## Hello, World! I'm Zarnik.👋
+Welcome to my GitHub profile! 
 
 ---
 
