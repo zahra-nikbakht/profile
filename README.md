@@ -1,39 +1,56 @@
-## Hello, World! I'm Zarnik.👋
+
+## Hello, I'm Zarnik👋
 Welcome to my GitHub profile! 
 
 ---
 
-## 👩‍💻 **About Me**  
-I am a passionate Frontend Developer with 3 of experience building dynamic and intuitive user interfaces. My expertise includes creating workflow engines similar to Node-RED using modern web technologies like Vue.js, Tailwind CSS, and JavaScript.  
-Recently, I have embarked on a journey to explore the fields of **Data Science** and **Machine Learning**, aiming to leverage my analytical mindset and programming expertise to solve complex problems.  
+## 👩‍💻 About Me
+
+I’m a Frontend Developer with hands-on experience building real-world web applications, dashboards, and interactive tools.  
+I enjoy working on projects where **UI complexity, performance, and maintainability** matter.
+
+One of my main areas of experience is developing **visual and node-based interfaces** (similar to workflow or diagram editors), where clean architecture and a good user experience are essential.
+
+I care about writing clean code, structuring projects properly, and building interfaces that are easy to extend and maintain.
 
 ---
 
-## 🛠️ **Skills**  
+## 🛠️ What I Use & Work With
 
-### **Frontend Development**  
-- **Languages:** JavaScript (ES6+), HTML5, CSS3  
-- **Frameworks & Libraries:** Vue.js, jQuery, Tailwind CSS  
-- **Tools:** Git, Webpack, NPM, Figma  
-
-### **Data Science & Machine Learning**  
-- **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Skills:** Data Cleaning, Data Visualization, Machine Learning (Beginner Level)  
+JavaScript (ES6+)  
+HTML & CSS  
+Vue.js  
+Tailwind CSS  
+jQuery  
+Git & GitHub  
+Webpack / NPM  
+Figma  
 
 ---
 
-## 📫 **Contact Me**  
+## 💼 Experience Highlights
+
+- Building complex dashboards and admin panels  
+- Developing visual editors and workflow-based UIs  
+- Implementing responsive and reusable UI components  
+- Collaborating with designers and backend developers  
+- Improving UI performance and code structure over time  
+
+---
+
+## 🎯 What I’m Looking For
+
+- Frontend roles with real product challenges  
+- Projects that value clean UI, good UX, and maintainable code  
+- Teams that care about code quality and collaboration  
+
+---
+
+## 📫 Contact
+
 - **Email:** zahra77nikbakht@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/nickbakht/  
+- **LinkedIn:** https://www.linkedin.com/in/nickbakht/
 
 ---
 
-## 🎯 **Goals**  
-1. Build a strong foundation in Data Science and Machine Learning.  
-2. Combine my frontend expertise with analytical skills to develop intelligent and interactive applications.  
-3. Contribute to open-source projects in both frontend and data science domains.  
-
----
-
-**Thank you for visiting my profile! Feel free to connect or explore my work. 😊**  
+Thanks for visiting my profile 🙂
